@@ -1,0 +1,7 @@
+pandas
+openpyxl
+tk
+pyinstaller
+matplotlib
+seaborn
+plotly
