@@ -1,0 +1,19 @@
+{
+    "Dr Noha": {
+        "remark_codes": [
+            "CO:11",
+            "PI:11"
+        ],
+        "default_file": "C:/Users/amram/Downloads/37.12 - CPT Level Denials.csv",
+        "output_dir": "output_dr_noha",
+        "icd_codes": []
+    },
+    "Dr Ahmed": {
+        "remark_codes": [
+            "CO:1",
+            "CO:100"
+        ],
+        "default_file": "C:/Users/amram/Downloads/37.12 - CPT Level Denials.csv",
+        "output_dir": "output_dr_ahmed"
+    }
+}
