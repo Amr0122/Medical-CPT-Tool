@@ -38,5 +38,14 @@ doctor_setting.json → doctor settings
 medical_icon.ico → app icon
 
 ---
-
+## 📌 requirements
+- pandas
+- openpyxl
+- tk
+- pyinstaller
+- matplotlib
+- seaborn
+- plotly
+----
+  
 ⚡ Now you’re ready To Used 
