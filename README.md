@@ -49,3 +49,4 @@ medical_icon.ico → app icon
 ----
   
 ⚡ Now you’re ready To Used 
+<img width="1918" height="948" alt="image" src="https://github.com/user-attachments/assets/acb0f8e2-a040-4dfd-8d94-4a3f805c7cf7" />
